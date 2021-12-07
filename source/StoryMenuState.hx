@@ -20,9 +20,9 @@ class StoryMenuState extends MusicBeatState
 	var scoreText:FlxText;
 
 	var weekData:Array<Dynamic> = [
-		['Where-are-you', 'Eruption', 'Kaio-ken'],
-		['Whats-new', 'Blast', 'Super-saiyan'],
-		['GOD-EATER']
+		['Where-are-you']
+
+
 	];
 	var curDifficulty:Int = 2;
 
