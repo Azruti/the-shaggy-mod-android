@@ -56,9 +56,8 @@ class FreeplayState extends MusicBeatState
 		isDebug = true;
 		#end
 
-			addWeek(['Where-are-you', 'Eruption', 'Kaio-ken'], 1, ['dad', 'dad', 'mom']);
-			addWeek(['Whats-new', 'Blast', 'Super-saiyan'], 2, ['dad', 'mom', 'mom']);
-			addSong('GOD-EATER', 3, 'pshaggy');
+			addWeek(['Where-are-you'], 1, ['dad']);
+
 
 		// LOAD MUSIC
 
